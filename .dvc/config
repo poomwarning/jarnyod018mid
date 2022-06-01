@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = azure://jarnyordy2final
+    allow_anonymous_login = true
+    account_name = gulag
